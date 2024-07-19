@@ -10,4 +10,5 @@ To get the environment set up for running the tests, here are some prerequisites
 Once you have the prerequisites, do the following steps:
 
 1.- Clone the repository
+
 2.- Go to the proyect directory and install the dependencies by using the command `mvn install`
