@@ -1,2 +1,3 @@
 # posts-api-tests
-Test repository for posts apis
+
+Tests automation for JSONPlaceholder free fake api: https://jsonplaceholder.typicode.com/
